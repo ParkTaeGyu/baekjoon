@@ -1,3 +1,11 @@
+//	 작성자 : 박태규
+//   업로드일: 2016-03-28
+//   주제: 백준알고리즘 문제풀이 1002번 터렛문제
+//	 구조체배열 사용 
+
+
+
+
 #include <iostream>
 #include <math.h>
 using namespace std;
