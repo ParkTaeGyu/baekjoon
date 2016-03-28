@@ -1,3 +1,8 @@
+// 작성자: 박태규
+// 업로드일 : 2016-03-28
+// 주제: 백준알고리즘문제 1009번
+// [배열 동적할당][C++][입력 조건문사용(test_case)]
+
 #include<iostream>
 using namespace std;
 

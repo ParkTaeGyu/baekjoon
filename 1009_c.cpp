@@ -1,3 +1,12 @@
+// 작성자 : 박태규
+// 업로드일: 2016-03-28
+// 주제 : 백준알고리즘 1009번문제풀이
+// [배열 동적할당][C언어]
+
+
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #define _CRT_SECURE_NO_WARNINGS 
